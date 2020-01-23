@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.198a0e50.chunk.css",
+    "main.js": "/static/js/main.603a5706.chunk.js",
+    "main.js.map": "/static/js/main.603a5706.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9671459b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9671459b.js.map",
+    "static/js/2.b91628dc.chunk.js": "/static/js/2.b91628dc.chunk.js",
+    "static/js/2.b91628dc.chunk.js.map": "/static/js/2.b91628dc.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2d09488689fbeda8530d387c948743de.js": "/precache-manifest.2d09488689fbeda8530d387c948743de.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.198a0e50.chunk.css.map": "/static/css/main.198a0e50.chunk.css.map",
+    "static/js/2.b91628dc.chunk.js.LICENSE": "/static/js/2.b91628dc.chunk.js.LICENSE",
+    "static/media/vt-logo.png": "/static/media/vt-logo.fd44b21d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9671459b.js",
+    "static/js/2.b91628dc.chunk.js",
+    "static/css/main.198a0e50.chunk.css",
+    "static/js/main.603a5706.chunk.js"
+  ]
+}
